@@ -1,0 +1,53 @@
+/* Estilos generales */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+  align-items: center;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+select {
+  width: 200px;
+  height: 30px;
+  font-size: 16px;
+}
+
+h2 {
+  margin: 0;
+}
+
+/* Estilos específicos */
+
+#labelUsd,
+#labelEur {
+  font-size: 24px;
+}
+
+.select {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+}
